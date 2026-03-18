@@ -2,8 +2,8 @@
 title:               TungThanh's blog
 tagline:             'Atsonmm'
 description:         'Nơi đây sẽ là nơi tôi tập viết những thứ mà tôi nhận thức trong đời. Nó vừa là nơi tôi lưu lại những ký ức, cảm xúc tại thời điểm viết, đồng thời cũng là để thấy được góc nhìn của bản thân tại thời điểm viết đối với sự việc được đề cập là như thế nào.'
-url:                 https://tungthanhsota.github.io
-baseurl:             'https://tungthanh205.github.io'
+url:                 https://tungthanh205.github.io
+baseurl:             ""
 paginate:            5
 permalink:           pretty
 
