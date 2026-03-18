@@ -1,17 +1,17 @@
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
+title:               TungThanh's blog
+tagline:             'Atsonmm'
+description:         'Nơi đây sẽ là nơi tôi tập viết những thứ mà tôi nhận thức trong đời. Nó vừa là nơi tôi lưu lại những ký ức, cảm xúc tại thời điểm viết, đồng thời cũng là để thấy được góc nhìn của bản thân tại thời điểm viết đối với sự việc được đề cập là như thế nào.'
+url:                 https://tungthanhsota.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Nguyen Thanh Tung
+  url:               https://www.facebook.com/tungastonmm/
+  email:             tungthanh.hus@gmail.com
 
 # Gems
 plugins:
